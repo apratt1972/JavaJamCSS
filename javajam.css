@@ -1,2 +1,16 @@
 body { background-color: #FCEBB6; color: #221811;
        font-family: Tahoma, Arial, sans-serif;}
+
+h { background-color: #D2B48C; color: #8C3826;}
+
+h1 {line-height: 200% }
+
+h2 {color: #8C3826}
+
+nav { text-align: center;
+       font-weight: bold;}
+
+footer { background-color: #D2B48C
+       font-size: .60em;
+       font-style: italic;
+       text-slign: center;}
