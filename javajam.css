@@ -1,10 +1,12 @@
 body { background-color: #FCEBB6; color: #221811;
        font-family: Tahoma, Arial, sans-serif;}
 
-h { background-color: #D2B48C; color: #8C3826;
-       text-align: center;}
+h { background-color: #D2B48C; color: #8C3826;}
 
-h1 {line-height: 200% }
+h1 {line-height: 200%;
+	background-color: #D2B48C; 
+	color: #8C3826;
+	text-align: center; }
 
 h2 {color: #8C3826}
 
